@@ -1,30 +1,58 @@
 ### Hello! 👋
 
-I'm Kristine, born in 1988, and I've dedicated my entire adult life to working with individuals with diverse abilities and disabilities. Currently enrolled in Noroff Online Studies, I'm on a quest to master Frontend Development. 🚀
+I'm Kristine — a frontend developer based in Norway, currently completing my studies at Noroff Online Studies.
 
-## About me
+After spending many years working closely with people with diverse abilities and needs, I’ve transitioned into frontend development with a strong focus on accessibility, usability, and inclusive design. ✨
 
-- 🗺 Location: Norway
-- 👩‍💻 Studying: Frontend Development at Noroff Online Studies
-- 🌈 Passionate: Embracing inclusion in web development
+---
 
-## My Journey
+## 👩‍💻 About me
 
-Having worked extensively with people facing various challenges, I bring a unique perspective to my coding journey. I strongly believe that understanding and valuing human differences can lead to creating internet solutions that cater to everyone.
+- 📍 Location: Norway  
+- 🎓 Education: Frontend Development at Noroff Online Studies  
+- 🧠 Background: Health & social work  
+- ♿ Focus: Accessibility, inclusive UX & human-centered design  
 
-## I'm currently learning
+---
 
-- 💻 HTML, CSS, Javascript
-- 🛠 Crafting websites and apps that prioritize accessibility
+## 🛠 Tech stack
 
-## What's next
+**Core**
+- HTML, CSS, JavaScript (ES6+)
+- TypeScript
+- React (with Vite)
+- Tailwind CSS
 
-Eagerly anticipating the continuation of this journey, I look forward to leveraging my experience and technical skills to contribute to the world of web development.
+**Tools & workflow**
+- Git & GitHub
+- Adobe XD
+- Responsive & accessible design (WCAG mindset)
 
-Let's connect and build a web where everyone feels at home! ❤
+---
 
-## How to reach me
+## 🌱 What I care about
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kristine-blue)](https://www.linkedin.com/in/kristine-alexandersen-14144070/)
+I believe great web experiences are built at the intersection of:
+- clean, maintainable code  
+- accessibility from the start  
+- real understanding of human diversity  
+
+My background allows me to approach frontend development with empathy, structure, and attention to detail — especially when it comes to building interfaces that work for everyone.
+
+---
+
+## 🚀 Currently
+
+- Building my **personal portfolio** in React, TypeScript & Tailwind  
+- Preparing for my first role as a **junior frontend developer**
+
+---
+
+## 🤝 Let’s connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kristine-alexandersen-14144070/)
+- 📫 Email: *krigulland@gmail.com*
+
+Let’s build accessible, thoughtful, and human-centered web experiences together ❤️
 
 
