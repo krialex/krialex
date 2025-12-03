@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Kristine! i am a frontend developer based in Norway, currently completing my studies at Noroff Online Studies.
+I'm Kristine! I am a frontend developer based in Norway, currently completing my studies at Noroff Online Studies.
 
 After spending many years working closely with people with diverse abilities and needs, I’ve transitioned into frontend development with a strong focus on accessibility, usability, and inclusive design. ✨
 
